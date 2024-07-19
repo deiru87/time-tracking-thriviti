@@ -1,2 +1,2 @@
 # time-tracking
-Time tracking with clockify for thriviti company
+Time tracking with clockify and Rest API with fastAPI
